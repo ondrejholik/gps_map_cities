@@ -11,11 +11,11 @@ def print_mapa():
         print()
 
 
-obc = open("obce.csv")
+obc = open("sw.csv")
 obce = obc.readlines()
 gps_cor = []
-height = 25
-width = 90
+height =45
+width = 53
 mapa = []
 tmp = []
 
